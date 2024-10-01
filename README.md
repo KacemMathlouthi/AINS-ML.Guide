@@ -21,7 +21,8 @@ Check out the demo video of ML.GUIDE:
 
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/RMNCLDYO/groq-ai-toolkit/main/.github/groq-logo.png" alt="CrewAI Logo" width="100"/><br/>CrewAI</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/RMNCLDYO/groq-ai-toolkit/main/.github/groq-logo.png" alt="Groq Logo" width="100"/><br/>groq</td>
+    <td align="center"><img src="https://learn.crewai.com/_next/static/media/crew_only.cd8cdc40.png" alt="CrewAI Logo" width="100"/><br/>CrewAI</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ArXiv_logo_2022.svg/1280px-ArXiv_logo_2022.svg.png" alt="arXiv Logo" width="100"/><br/>arXiv</td>
     <td align="center"><img src="https://logos-download.com/wp-content/uploads/2024/04/Jina_AI_Logo.png" alt="JinaAI Logo" width="100"/><br/>JinaAI</td>
     <td align="center"><img src="https://media.licdn.com/dms/image/C5612AQF8zxgZx12rqg/article-cover_image-shrink_600_2000/0/1631078444443?e=2147483647&v=beta&t=x8G_2Pbjn4TxbJIqGL65Ca6c-DNcOAXo1dFgawzT1p8" width="100"/><br/>Sweetviz</td>
